@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on open source community<br>🌱 I’m currently learning frontend and backend<br>⚡ Fun fact I do comedy while coding 
+Hi 👋, I'm Abhinav Jaiswal<br>🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on open source community<br>🌱 I’m currently learning frontend and backend<br>⚡ Fun fact I do comedy while coding 
 
 
 ## 🌐 Socials:
